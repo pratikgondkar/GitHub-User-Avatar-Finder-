@@ -59,3 +59,7 @@ Open your browser and visit http://localhost:5173/ to view the app.
 
 ![Screenshot 2024-04-16 202211](https://github.com/pratikgondkar/GitHub-User-Avatar-Finder-/assets/131374322/505e3fee-3d55-4b81-813e-639b6c927d04)
 
+
+![Screenshot 2024-04-16 202841](https://github.com/pratikgondkar/GitHub-User-Avatar-Finder-/assets/131374322/b4df1caa-13b8-4e45-8321-127e12c36d5c)
+
+
